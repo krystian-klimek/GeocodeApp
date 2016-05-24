@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Zlokalizuj miasto</string>
+
+    <string name="newCityEditText">Podaj miasto</string>
+    <string name="addNewCityTextView">+</string>
+
+    <string name="country_text">"Państwo: "</string>
+    <string name="locality_text">"Miejscowość: "</string>
+    <string name="administrative_area_level_1_text">"Województwo: "</string>
+    <string name="administrative_area_level_2_text">"Powiat: "</string>
+    <string name="administrative_area_level_3_text">"Gmina: "</string>
+
+    <string name="back">Wróć</string>
+
+    <string name="postal_code">postal_code</string>
+    <string name="country">country</string>
+    <string name="locality">locality</string>
+    <string name="administrative_area_level_1">administrative_area_level_1</string>
+    <string name="administrative_area_level_2">administrative_area_level_2</string>
+    <string name="administrative_area_level_3">administrative_area_level_3</string>
+
+    <string name="city_detail">cityDetail</string>
+    <string name="internet_connection_is_required">Połączenie internetowe jest wymagane w tej akcji.</string>
+    <string name="no_saved_cities">Brak zapisanych miast.</string>
+    <string name="write_city_name">Wpisz nazwę miasta!</string>
+    <string name="wrong_city_name">Błędna nazwa miasta! Wybierz inną, aby uzyskać wynik.</string>
+    <string name="ok">OK</string>
+
+    <string-array name="cityStartList">
+        <item>Gosprzydowa</item>
+        <item>Biecz</item>
+        <item>Barcice</item>
+        <item>Rytro</item>
+        <item>Mielno</item>
+    </string-array>
+</resources>
